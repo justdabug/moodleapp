@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
     "app_id": "IchthysAquaponicsAcademy",
     "appname": "Ichthys Aquaponics Academy",
     "desktopappname": "Ichthys Aquaponics Academy",
+=======
+    "app_id": "com.ichthysacademy.mobile",
+    "appname": "Ichthys Academy Mobile",
+    "desktopappname": "Ichthys Academy Desktop",
+>>>>>>> parent of 59a6c9d4c... updates
     "versioncode": 3820,
     "versionname": "1.0",
     "cache_update_frequency_usually": 420000,
@@ -59,7 +65,22 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
+<<<<<<< HEAD
   
+=======
+    //"demo_sites": {
+    //    "student": {
+    //        "url": "https:\/\/school.moodledemo.net",
+    //        "username": "student",
+    //        "password": "moodle"
+    //    },
+    //    "teacher": {
+     //       "url": "https:\/\/school.moodledemo.net",
+     //       "username": "teacher",
+     //       "password": "moodle"
+      //  }
+   // },
+>>>>>>> parent of 59a6c9d4c... updates
     "font_sizes": [
         62.5,
         75.89,
