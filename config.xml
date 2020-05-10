@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.moodle.moodlemobile" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="aquaponics-online" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Moodle</name>
-    <description>Moodle official app</description>
-    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
+    <description>Ichthys Aquaponics Academy</description>
+    <author email="info@aquaponics.online" href="https://aquaponics-online.com">Moodle Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
@@ -152,7 +152,7 @@
     <plugin name="cordova-plugin-badge" spec="0.8.8" />
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
     <plugin name="cordova-plugin-customurlscheme" spec="4.4.0">
-        <variable name="URL_SCHEME" value="moodlemobile" />
+        <variable name="URL_SCHEME" value="https://aquaponics.online" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
@@ -179,7 +179,7 @@
         <variable name="FCM_VERSION" value="17.5.+" />
     </plugin>
     <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/application/activity[@android:name='MainActivity']">
-        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true" />
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="false" />
     </edit-config>
     <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/application">
         <application android:usesCleartextTraffic="true" />
