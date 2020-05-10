@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
   "version": "3.8.2",
-  "description": "The official app for Moodle.",
+  "description": "The official app Ichthys Academy.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Ichthys International Pty Ltd.",
+    "email": "mobile@aquaponics.online"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -160,7 +160,7 @@
       "cordova-plugin-badge": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "https://aquaponics.online"
       },
       "cordova-plugin-device": {},
       "cordova-plugin-file": {},
