@@ -1,19 +1,10 @@
 {
-<<<<<<< HEAD
   "name": "moodlemobile",
   "version": "3.8.2",
   "description": "The official app Ichthys Academy.",
   "author": {
     "name": "Ichthys International Pty Ltd.",
     "email": "mobile@aquaponics.online"
-=======
-  "name": "com.ichthysAcademy.mobile",
-  "version": "1.0",
-  "description": "The official app forIchthys Academy.",
-  "author": {
-    "name": "Ichthys International Pty Ltd.",
-    "email": "info@aquaponics.online"
->>>>>>> parent of 59a6c9d4c... updates
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
