@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.8.3",
-  "description": "The official app for Moodle.",
+  "name": "ichthysacademymobile",
+  "version": "1.1.0",
+  "description": "The official app for Ichthys Academy.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Ichthys International Pty Ltd.",
+    "email": "info@ichthys.co.za"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -83,7 +83,7 @@
     "cordova-android": "8.1.0",
     "cordova-android-support-gradle-release": "3.0.1",
     "cordova-clipboard": "1.3.0",
-    "cordova-ios": "5.1.1",
+    "cordova-ios": "^5.1.1",
     "cordova-plugin-advanced-http": "2.4.1",
     "cordova-plugin-badge": "0.8.8",
     "cordova-plugin-camera": "4.1.0",
@@ -170,7 +170,7 @@
       "cordova-plugin-badge": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "aquaponics.online"
       },
       "cordova-plugin-device": {},
       "cordova-plugin-file": {},
