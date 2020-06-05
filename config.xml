@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="38310" id="com.ichthys.ichthysmobile" ios-CFBundleVersion="1.1.0.0" version="1.1.0" versionCode="38300" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Moodle</name>
+    <name>Ichthys Aquaponics Academy</name>
     <description>Ichthys Aquaponics Academy Official app</description>
     <author email="info@ichthys.co.za" href="https://aquaponics-online.com">Ichthys Academy</author>
     <content src="index.html" />
